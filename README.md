@@ -12,21 +12,27 @@ I am a logistician at heart and want to apply what I have learned to that area.
 The strucutre of this section was inspired by the Data Science Project Scoping Guide created by Carnegie Mellon University.
 #### Problem Understanding
 **Questions To Answer**
+
 *What is the problem?* 
 *Who does it impact and how much?*
 *How is it being solved today and what are some of the gaps?*
+*Who are the stakeholders?*
 
 #### Goals
 **Questions To Answer**
+
 *What are the goals of the project?*
 *How will we know if our project is successful?*
-
+*Structure the goal as a SMART target*
+	
 #### Actions
 **Questions To Answer**
+
 *What actions or interventions will this work inform?*
 
 #### Data 
 **Questions To Answer**
+
 *What data do you have access to internally?*
 *What data do you need?*
 *What can you augment from external and/or public sources?*
